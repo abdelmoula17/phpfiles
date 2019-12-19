@@ -1,0 +1,5 @@
+abdelmoula|12345
+jawad|1234
+charf|0666
+yassine|95123
+youssef|75321
